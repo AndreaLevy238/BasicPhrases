@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Phrases</string>
+    <string name="hello_goodbye_peace">Hello \n Goodbye \n Peace</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="good">Good</string>
+    <string name="yes">Yes</string>
+    <string name="thank_you">Thank you</string>
+    <string name="no">No</string>
+    <string name="how_are_you">how are you?</string>
+    <string name="please">Please</string>
+</resources>
